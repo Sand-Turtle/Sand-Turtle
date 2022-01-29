@@ -1,4 +1,3 @@
 - 👋 Hiya, I’m Sand Turtle
-- 👀 I play 2b2t and make some scripts and stuff when i'm bored
-- 🌱 I currently only know python but plan on learning java eventually
-- 📫 contact me on discord at Sand Turtle#7423
+- 🌎 I do simple website commissions.
+- 🖥️ hmu on discord. Sand Turtle#7423
