@@ -1,3 +1,4 @@
 - 👋 Hiya, I’m Sand Turtle
-- 🌎 I do simple website commissions.
+- ⌨️ I program and game develop independently. I also have a hosting business in the works https://discord.gg/tP68g5dzv9
+- 🌎 I know python, java, and code in Gamemaker Studio 2 (GML). planning to learn c# or c++
 - 🖥️ hmu on discord. Sand Turtle#7423
